@@ -1,22 +1,32 @@
 # Android 技术笔记
 
-大家好！我是曹建波（@jeanboy），是一名专注于 Android 领域的开发者。目前主要从事移动端相关的开发工作，同时对 iOS | Java Web | 前端 | 小程序也有研究。
-
 这里主要记录日常的开发技巧，开发中遇到的技术重点、难点，各个知识点的总结。同时也会分享一些优质面试题，职业规划，读书心得，个人感悟等等。😋
 
  🌝🌔🌓🌒🌚🌚🌘🌗🌖🌝
 
 如果能帮助到你，我很开心。希望你能点击一下右上角的小星星「⭐️ Star」 一下，然后 [点击这里](https://github.com/jeanboydev) 找到头像下面按钮 Follow 一下我。你的 Star 和 Follow 是我分享的动力，十分感谢！😘
 
-欢迎你「扫一扫」下面的二维码，关注我的公众号，可以接受最新的文章推送，有丰厚的抽奖活动和福利等着你哦！😍
-
-<img src="https://raw.githubusercontent.com/jeanboydev/Android-ReadTheFuckingSourceCode/master/resources/images/about_me/qrcode_android_besos_black_512.png" width=250 height=250 />
-
 如果你有什么疑问或者问题，可以 [点击这里](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/issues) 提交 issue，也可以发邮件给我 [jeanboy@foxmail.com](mailto:jeanboy@foxmail.com)。
 
-同时欢迎你 [![Android技术进阶：386463747](https://camo.githubusercontent.com/615c9901677f501582b6057efc9396b3ed27dc29/687474703a2f2f7075622e69647171696d672e636f6d2f7770612f696d616765732f67726f75702e706e67)](http://shang.qq.com/wpa/qunwpa?idkey=0b505511df9ead28ec678df4eeb7a1a8f994ea8b75f2c10412b57e667d81b50d) 来一起交流学习，群里有很多大牛和学习资料，相信一定能帮助到你！
-
 > 由于个人经验有限，内容上难免会有不足甚至错误的地方，恳请大家发现后提交 issue 或其它方式反馈给我，以免误导大家，万分感谢！🙏
+
+## 我的公众号
+
+欢迎关注我的公众号，分享各种技术干货，各种学习资料，职业发展和行业动态。
+
+<center><img src="https://raw.githubusercontent.com/jeanboydev/Android-ReadTheFuckingSourceCode/master/resources/images/about_me/qrcode_android_besos_banner.png" alt="Android 波斯湾" width=450 height=250 /></center>
+
+大家好！我是曹建波（@jeanboy），毕业于 [圆明园职业技术学院](https://www.pku.edu.cn) 计算机系，是一名专注于 Android 领域的开发者。
+
+目前主要从事移动端相关的开发工作，同时对 iOS | Java Web | 前端 | 小程序也有研究。
+
+## 技术交流群
+
+欢迎加入技术交流群，来一起交流学习。
+
+<center><img src="https://raw.githubusercontent.com/jeanboydev/Android-ReadTheFuckingSourceCode/master/resources/images/about_me/qq群_横版.jpg" alt="QQ 技术交流群" width=450 height=129 /></center>
+
+<center><img src="https://raw.githubusercontent.com/jeanboydev/Android-ReadTheFuckingSourceCode/master/resources/images/about_me/微信群_横版.jpg" alt="微信技术交流群" width=450 height=129 /></center>
 
 # 目录
 
@@ -24,6 +34,7 @@
 
 - [精华面试题，长期更新！](https://github.com/android-exchange/Android-Interview)
 - [一篇文章看明白 HashMap 工作原理](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/java/basic/Java_HashMap.md)
+- [一篇文章看明白 ArrayList 工作原理](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/java/basic/Java_ArrayList.md)
 
 ## 网络通信
 
@@ -37,36 +48,39 @@
 
 ## Android
 
-- [Android 进阶思维导图](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/Android-思维导图.md)
-- [Android 屏幕适配全攻略](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/Android-屏幕适配全攻略.md)
+- [Android 入门学习指南](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/interview/01_android_basic.md)
+- [Android 高级学习指南](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/interview/02_android_advanced.md)
+- [Android 资深（专家）学习指南](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/interview/03_android_senior.md)
+- :+1:[四大组件之 Activity](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/basic/01_activity.md)
+- :+1:[Fragment 相关知识点](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/basic/02_fragment.md)
+- :+1:[如何正确的使用 Service？](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/basic/03_service.md)
+- :+1:[分享一些 Broadcast 使用技巧](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/basic/04_broadcast.md)
+- :+1:[最通俗易懂的 Handler 源码解析](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/basic/07_handler.md)
+- :+1:[图解 Android 系列（一）揭秘 Android 系统启动过程](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/framework/01_system_start.md)
+- :+1:[图解 Android 系列（二）深入理解 init 与 zygote 进程](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/framework/02_init_zygote.md)
+- :+1:[图解 Android 系列（三）探索 SystemServer 进程创建过程](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/framework/03_system_server_01.md)
+- [Android 屏幕适配全攻略](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/basic/Android-屏幕适配全攻略.md)
 - [一个 Demo 学会搭建 Android Studio JNI 开发环境](https://github.com/jeanboydev/Android-JNITest)
-- [一张图看明白 Android Handler 消息机制](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/Android-Handler消息机制.md)
-- [一张图看明白 Android Activity 生命周期](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/Android-Activity生命周期.md)
-- [一篇文章看明白 Android Activity 启动模式 & IntentFilter匹配规则](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/Android-Activity启动模式&IntentFilter匹配规则.md)
-- [一篇文章学会使用 Android IPC 多进程](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/Android-IPC多进程.md)
-- [Windows 环境下载 Android 源码](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/Android-Windows环境下载源码.md)
-- [Android 反编译指南](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/Android-反编译指南.md)
+- [一篇文章学会使用 Android IPC 多进程](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/basic/Android-IPC多进程.md)
+- [Windows 环境下载 Android 源码](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/framework/Android-Windows环境下载源码.md)
+- [Android 反编译指南](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/basic/Android-反编译指南.md)
 - [Android 多渠道打包最佳实践](https://github.com/jeanboydev/Android-Flavors)
-- [Android Studio 3.x 升级指南](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/Android-Android_Studio3升级指南.md)
-- :+1: [一篇文章了解相见恨晚的 Android Binder 进程间通讯](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/Android-Binder进程间通讯.md)
-- :+1: [一篇文章看明白 Android 系统启动时都干了什么](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/Android-系统启动过程.md)
-- :+1: [一篇文章看明白 Android 从点击应用图标到界面显示的过程](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/Android-Activity启动过程.md)
-- :+1: [一篇文章看明白 Activity 与 Window 与 View 之间的关系](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/Android-Activity与Window与View之间的关系.md)
-- :+1: [一篇文章看明白 Android 图形系统 Surface 与 SurfaceFlinger 之间的关系](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/Android-SurfaceFlinger图形系统.md)
-- :+1: [一篇文章看明白 Android Service 启动过程](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/Android-Service启动过程.md)
-- :+1: [一篇文章看明白 Android PackageManagerService 工作流程](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/Android-PackageManagerService分析.md)
-- :+1: [一篇文章看明白 Android v1 & v2 签名机制](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/Android-v1%26v2%E7%AD%BE%E5%90%8D%E6%9C%BA%E5%88%B6.md)
-- 👍 [一篇文章看明白 Android PowerManagerService 启动过程](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/Android-PowerManagerService-%E5%90%AF%E5%8A%A8.md)
-- 👍 [一篇文章看明白 Android PowerManagerService WakeLock 机制](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/Android-PowerManagerService-WakeLock.md)
-- 👍 [一篇文章看明白 Android PowerManagerService 亮屏过程](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/Android-PowerManagerService-%E4%BA%AE%E5%B1%8F.md)
-- 👍 [一篇文章看明白 Android PowerManagerService 灭屏过程](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/Android-PowerManagerService-%E7%81%AD%E5%B1%8F.md)
+- [Android Studio 3.x 升级指南](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/basic/Android-Android_Studio3升级指南.md)
+- :+1: [一篇文章了解相见恨晚的 Android Binder 进程间通讯](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/framework/Android-Binder进程间通讯.md)
+- :+1: [一篇文章看明白 Android 系统启动时都干了什么](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/framework/Android-系统启动过程.md)
+- :+1: [一篇文章看明白 Android 从点击应用图标到界面显示的过程](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/framework/Android-Activity启动过程.md)
+- :+1: [一篇文章看明白 Activity 与 Window 与 View 之间的关系](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/framework/Android-Activity与Window与View之间的关系.md)
+- :+1: [一篇文章看明白 Android 图形系统 Surface 与 SurfaceFlinger 之间的关系](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/framework/Android-SurfaceFlinger图形系统.md)
+- :+1: [一篇文章看明白 Android Service 启动过程](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/framework/Android-Service启动过程.md)
+- :+1: [一篇文章看明白 Android PackageManagerService 工作流程](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/framework/Android-PackageManagerService分析.md)
+- :+1: [一篇文章看明白 Android v1 & v2 签名机制](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/basic/Android-v1%26v2%E7%AD%BE%E5%90%8D%E6%9C%BA%E5%88%B6.md)
+- :+1:[一篇文章看明白 Android PowerManagerService 启动过程](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/framework/Android-PowerManagerService-%E5%90%AF%E5%8A%A8.md)
+- :+1:[一篇文章看明白 Android PowerManagerService WakeLock 机制](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/framework/Android-PowerManagerService-WakeLock.md)
+- :+1:[一篇文章看明白 Android PowerManagerService 亮屏过程](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/framework/Android-PowerManagerService-%E4%BA%AE%E5%B1%8F.md)
+- :+1:[一篇文章看明白 Android PowerManagerService 灭屏过程](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/framework/Android-PowerManagerService-%E7%81%AD%E5%B1%8F.md)
 - :+1: [Android 项目架构探索](https://github.com/jeanboydev/Android-Architecture)
-- :+1: [Android 性能优化 - UI优化](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/Android-性能优化-UI优化.md)
-- :+1: [Android 性能优化 - 内存优化](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/Android-性能优化-内存优化.md)
-- [*Android Broadcast 启动过程]
-- [*Android ContentProvider 启动过程]
-- [*Android App 自动化测试]
-- [*Android Input 系统]
+- :+1: [Android 性能优化 - UI优化](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/basic/Android-性能优化-UI优化.md)
+- :+1: [Android 性能优化 - 内存优化](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/basic/Android-性能优化-内存优化.md)
 
 ## Gradle
 
@@ -144,7 +158,7 @@
 
 ## 开源库源码分析
 
-- [Lottie 动画开源库使用 & 源码分析](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/Lottie动画开源库使用&源码分析.md)
+- [Lottie 动画开源库使用 & 源码分析](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/other/Lottie动画开源库使用&源码分析.md)
 - [Universal-Image-Loader 源码分析 from 【codeKK】](http://a.codekk.com/detail/Android/huxian99/Android%20Universal%20Image%20Loader%20%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90)
 - [Glide 源码分析 from 【郭霖】](http://blog.csdn.net/column/details/15318.html)
 - [EventBus 源码分析 from 【codeKK】](http://a.codekk.com/detail/Android/Trinea/EventBus%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90)
