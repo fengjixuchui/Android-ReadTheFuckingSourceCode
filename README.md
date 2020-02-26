@@ -1,9 +1,5 @@
 # Android 技术笔记
 
-大家好！我是曹建波（@jeanboy），毕业于圆明园职业技术学院计算机系，是一名专注于 Android 领域的开发者。
-
-目前主要从事移动端相关的开发工作，同时对 iOS | Java Web | 前端 | 小程序也有研究。
-
 这里主要记录日常的开发技巧，开发中遇到的技术重点、难点，各个知识点的总结。同时也会分享一些优质面试题，职业规划，读书心得，个人感悟等等。😋
 
  🌝🌔🌓🌒🌚🌚🌘🌗🌖🌝
@@ -18,35 +14,17 @@
 
 欢迎关注我的公众号，分享各种技术干货，各种学习资料，职业发展和行业动态。
 
-<center><img src="https://raw.githubusercontent.com/jeanboydev/Android-ReadTheFuckingSourceCode/master/resources/images/about_me/qrcode_android_besos_banner.png" alt="Android 波斯湾" width=450 height=250 /></center>
+<img src="https://raw.githubusercontent.com/jeanboydev/Android-ReadTheFuckingSourceCode/master/resources/images/about_me/qrcode_android_besos_banner.png" alt="Android 波斯湾" width="450" height="250" style="max-width:100%;">
+
 ## 技术交流群
 
 同时欢迎加入技术交流群，来一起交流学习。
 
-<center><img src="https://raw.githubusercontent.com/jeanboydev/Android-ReadTheFuckingSourceCode/master/resources/images/about_me/qq群_横版.jpg" alt="QQ 技术交流群" width=450 height=129 /></center>
-<center><img src="https://raw.githubusercontent.com/jeanboydev/Android-ReadTheFuckingSourceCode/master/resources/images/about_me/微信群_横版.jpg" alt="微信技术交流群" width=450 height=129 /></center>
+<img src="https://raw.githubusercontent.com/jeanboydev/Android-ReadTheFuckingSourceCode/master/resources/images/about_me/qq群_横版.jpg" alt="QQ 技术交流群" width="450" height="129" style="max-width:100%;">
+
+<img src="https://raw.githubusercontent.com/jeanboydev/Android-ReadTheFuckingSourceCode/master/resources/images/about_me/微信群_横版.jpg" alt="微信技术交流群" width="450" height="129" style="max-width:100%;">
+
 # 目录
-
-## 数据结构与算法
-
-### 线性表
-
-- [LinkedList 源码分析](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/java/basic/03_linkedlist.md)
-- [ArrayList 源码分析](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/java/basic/02_arraylist.md)
-
-### 栈和队列
-
-### 树
-
-- [HashMap 源码分析](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/java/basic/01_hashmap.md)
-- [Treemap 源码分析（上）](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/java/basic/04_treemap_01.md)
-- [Treemap 源码分析（下）](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/java/basic/05_treemap_02.md)
-
-### 图
-
-### 查找
-
-### 排序
 
 
 ## 网络通信
@@ -58,7 +36,8 @@
 
 - [JVM 内存分配机制](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/java/jvm/JVM-内存分配机制.md)
 - [JVM 垃圾回收机制](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/java/jvm/JVM-垃圾回收机制.md)
-- [图解 Java 虚拟机系列（一）字节码文件结构](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/java/jvm/01_bytecode_class.md)
+- :+1:[图解 Java 虚拟机系列（一）字节码文件结构](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/java/jvm/01_bytecode_class.md)
+- [图解 Java 虚拟机系列（二）字节码指令](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/java/jvm/02_bytecode_command.md)
 
 ## Android 进阶攻略
 
@@ -74,14 +53,24 @@
 - :+1:[图解 Android 系列（三）探索 SystemServer 进程创建过程](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/framework/03_system_server_01.md)
 - :+1:[图解 Android 系列（四）原来 SystemServer 启动时干了这么多](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/framework/04_system_server_02.md)
 
+## 性能优化系列
+
+- :+1:[性能优化系列（一）渲染性能优化](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/performance/01_render.md)
+- :+1:[性能优化系列（二）计算性能优化](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/performance/02_compute.md)
+- :+1:[性能优化系列（三）内存性能优化](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/performance/03_memory.md)
+- :+1:[性能优化系列（四）电量性能优化](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/performance/04_battery.md)
+- :+1:[性能优化系列（五）网络性能优化](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/performance/05_network.md)
+- :+1:[性能优化系列（六）启动性能优化](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/performance/06_launch.md)
+- :+1:[性能优化系列（七）APK 体积优化](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/performance/07_apk.md)
+
 ## Android 基础知识
 
-- :+1:[四大组件之 Activity](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/basic/01_activity.md)
-- :+1:[Fragment 相关知识点](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/basic/02_fragment.md)
-- :+1:[如何正确的使用 Service？](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/basic/03_service.md)
-- :+1:[分享一些 Broadcast 使用技巧](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/basic/04_broadcast.md)
-- :+1:[很少有人知道的 ContentProvider 使用技巧](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/basic/05_content_provider.md)
-- :+1:[屏幕适配最佳实践](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/basic/06_multiple_screen_support.md)
+- [四大组件之 Activity](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/basic/01_activity.md)
+- [Fragment 相关知识点](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/basic/02_fragment.md)
+- [如何正确的使用 Service？](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/basic/03_service.md)
+- [分享一些 Broadcast 使用技巧](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/basic/04_broadcast.md)
+- [很少有人知道的 ContentProvider 使用技巧](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/basic/05_content_provider.md)
+- [屏幕适配最佳实践](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/basic/06_multiple_screen_support.md)
 - :+1:[最通俗易懂的 Handler 源码解析](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/basic/07_handler.md)
 - :+1:[Activity 的 Task 亲和关系](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/basic/08_task_affinity.md)
 - :+1:[Android 签名机制 v1、v2、v3](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/basic/09_signature.md)
@@ -103,8 +92,9 @@
 - [一篇文章看明白 Android PowerManagerService 亮屏过程](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/framework/Android-PowerManagerService-%E4%BA%AE%E5%B1%8F.md)
 - [一篇文章看明白 Android PowerManagerService 灭屏过程](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/framework/Android-PowerManagerService-%E7%81%AD%E5%B1%8F.md)
 - [Android 项目架构探索](https://github.com/jeanboydev/Android-Architecture)
-- :+1: [Android 性能优化 - UI优化](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/basic/Android-性能优化-UI优化.md)
-- :+1: [Android 性能优化 - 内存优化](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/basic/Android-性能优化-内存优化.md)
+- [Android 性能优化 - UI优化](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/basic/Android-性能优化-UI优化.md)
+- [Android 性能优化 - 内存优化](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/android/basic/Android-性能优化-内存优化.md)
+
 
 ## Gradle
 
@@ -114,6 +104,27 @@
 - [Android Plugin DSL](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/gradle/Gradle-Android_Plugin_DSL.md)
 - [插件开发](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/gradle/Gradle-插件开发.md)
 - [插件发布](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/gradle/Gradle-插件发布.md)
+
+## 数据结构与算法
+
+### 线性表
+
+- [LinkedList 源码分析](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/java/basic/03_linkedlist.md)
+- [ArrayList 源码分析](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/java/basic/02_arraylist.md)
+
+### 栈和队列
+
+### 树
+
+- [HashMap 源码分析](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/java/basic/01_hashmap.md)
+- [Treemap 源码分析（上）](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/java/basic/04_treemap_01.md)
+- [Treemap 源码分析（下）](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/article/java/basic/05_treemap_02.md)
+
+### 图
+
+### 查找
+
+### 排序
 
 ## 前端
 
